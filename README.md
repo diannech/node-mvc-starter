@@ -1,3 +1,34 @@
+
+# Refactored Node.js App for MVC
+
+Name: Chong, Dianne
+
+## View All Students
+
+![alt text](screens/view-all.png)
+
+## Add Student
+
+![alt text](screens/add-student.png)
+
+## Search Students
+
+![alt text](screens/search-students.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Starter Code for Refactoring Node.js App to MVC
 
 This is based off on the [`node-mongoose-sample`](https://github.com/unisse-courses/node-mongoose-sample) repository but using [Materialize](https://materializecss.com/) as the CSS design framework.
